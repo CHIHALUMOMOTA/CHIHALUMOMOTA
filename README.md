@@ -16,3 +16,5 @@ I'm a graduate student transitioning from Mechanical Engineering into **Generati
 - Email: `2809209792@qq.com`
 
 Open to research discussions, open-source collaboration, and internship opportunities. Feel free to reach out!
+
+The picture is of my cat, named Nini. She is very cute.
